@@ -56,8 +56,8 @@
 
 ![image](https://github.com/Gopika-9266/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/122762773/bfa390b9-a030-4f36-9b40-51b44a140220)
 
-### Name: 212222240031
-### Register Number: Gopika R
+### Name: Gopika R
+### Register Number: 212222240031
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
